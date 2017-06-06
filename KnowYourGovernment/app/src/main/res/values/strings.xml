@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KnowYourGovernment</string>
+    <string name="president">president</string>
+    <string name="vice">vice</string>
+    <string name="aboutText">aboutText</string>
+    <string name="officialName">officialName</string>
+    <string name="office">office</string>
+    <string name="name">name</string>
+    <string name="party">party</string>
+    <string name="address">address</string>
+    <string name="Phone">Phone</string>
+    <string name="email">email</string>
+    <string name="Website">Website</string>
+    <string name="photoOffice">photoOffice</string>
+    <string name="photoName">photoName</string>
+    <string name="Address" translatable="false">Address:</string>
+    <string name="PhoneText">Phone:</string>
+    <string name="EmailText">Email:</string>
+    <string name="WebsiteText">Website:</string>
+</resources>
