@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Network Gateway</string>
+    <string name="drawer_open">Drawer open.</string>
+    <string name="drawer_close">Drawer closer.</string>
+</resources>
